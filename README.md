@@ -2,15 +2,6 @@
 
 This project is focused on analyzing and predicting financial data for BNP Paribas SA. It leverages Python and Jupyter Notebook for data analysis and visualization.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Description](#data-description)
-- [License](#license)
-
 ## Project Overview
 
 The project processes financial data, including stock prices and trading volumes, to provide insights and predictions. It uses libraries such as pandas, NumPy, and Bootstrap for data manipulation, analysis, and visualization.
